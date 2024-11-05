@@ -6,3 +6,7 @@ resource "azurerm_resource_group" "bur-rg" {
   name     = "burrg2"
   location = "centralindia"
 }
+resource "azurerm_resource_group" "boka-rgs" {
+  name     = "bokarg1"
+  location = "centralindia"
+}
