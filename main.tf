@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "branch3-block" {
-  name     = "rgbranch3"
+resource "azurerm_resource_group" "akshay-rgs" {
+  name     = "akshayrg"
   location = "eastus"
   }
