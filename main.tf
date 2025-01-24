@@ -10,3 +10,7 @@ resource "azurerm_resource_group" "newaddinmain " {
   name     = "delhi-rg"
   location = "southindia"
   }
+resource "azurerm_resource_group" "mumbai " {
+  name     = "mumbai-rg"
+  location = "southindia"
+  }
